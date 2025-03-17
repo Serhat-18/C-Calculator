@@ -6,7 +6,7 @@
 /*   By: sekaska <sekaska@student.42kocaeli.com.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/16 20:11:07 by sekaska           #+#    #+#             */
-/*   Updated: 2025/03/17 03:49:23 by sekaska          ###   ########.fr       */
+/*   Updated: 2025/03/17 03:49:59 by sekaska          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -102,28 +102,28 @@ int main (void) {
             printf("Gecersiz giris!\n");
         }
     } else if (operator == '+') {
-        printf("İki sayi girin: ");
+        printf("iki sayi girin: ");
         if (scanf("%d %d", &num1, &num2) == 2) {
             printf("Sonuc: %ld\n", ft_addition(num1, num2));
         } else {
             printf("Gecersiz giris!\n");
         }
     } else if (operator == '-') {
-        printf("İki sayi girin: ");
+        printf("iki sayi girin: ");
         if (scanf("%d %d", &num1, &num2) == 2) {
             printf("Sonuc: %ld\n", ft_subtraction(num1, num2));
         } else {
             printf("Gecersiz giris!\n");
         }
     } else if (operator == '*') {
-        printf("İki sayi girin: ");
+        printf("iki sayi girin: ");
         if (scanf("%d %d", &num1, &num2) == 2) {
             printf("Sonuc: %ld\n", ft_multiplication(num1, num2));
         } else {
             printf("Gecersiz giris!\n");
         }
     } else if (operator == '/') {
-        printf("İki sayi girin: ");
+        printf("iki sayi girin: ");
         if (scanf("%d %d", &num1, &num2) == 2) {
             if (num2 != 0) {
                 printf("Sonuc: %.6f\n", (double)num1 / num2);
@@ -134,7 +134,7 @@ int main (void) {
             printf("Gecersiz giris!\n");
         }
     } else if (operator == '%') {
-        printf("İki sayi girin: ");
+        printf("iki sayi girin: ");
         if (scanf("%d %d", &num1, &num2) == 2) {
             printf("Sonuc: %ld\n", ft_mod(num1, num2));
         } else {
