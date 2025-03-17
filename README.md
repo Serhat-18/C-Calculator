@@ -33,3 +33,18 @@
   bu kodu ekleyebilirsiniz
 
   ⭐ Eğer işinize yaradıysa yada hoşunuza gittiyse star bırakmayı unutmayın ^^
+
+
+  # Program Görselleri
+
+  # Derleme (w64devkit windows11)
+
+  ![image](https://github.com/user-attachments/assets/f2762c45-d39a-45c1-9218-89f16fccd4b8)
+
+# Faktöriyel
+
+![image](https://github.com/user-attachments/assets/4bb22984-c1d9-40a9-a5a6-29c3d59a6d56)
+
+# Mod alma (Bölümünden kalan)
+
+![image](https://github.com/user-attachments/assets/e8593d90-2174-4503-9f70-eb980d07d045)
