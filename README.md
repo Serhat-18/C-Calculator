@@ -18,7 +18,9 @@
 # Programı derlemek için 
 
 👋 Linux / Ubuntu / Windows (mingw & w64devkit)
-✅ gcc -Wall -Wextra -Werror ft_calc.c -o calculator.out
+```
+ gcc -Wall -Wextra -Werror ft_calc.c -o calculator.out
+```
 
 👋 Windows (devc++ / visual studio vb derleyici uygulamalar)
 ✅ Bu tarz uygulamalar için işlem sonrası cmd otomatik kapanmaması için maine return (0); dan önce
